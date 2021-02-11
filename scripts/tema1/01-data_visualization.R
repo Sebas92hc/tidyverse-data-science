@@ -1,6 +1,6 @@
 #Data Visualization - 11 de Mayo de 2018
 library(tidyverse)
-
+#prueba2
 #tidyverse 1.2.1 ──
 #✔ ggplot2 2.2.1     ✔ purrr   0.2.4
 #✔ tibble  1.4.2     ✔ dplyr   0.7.4
